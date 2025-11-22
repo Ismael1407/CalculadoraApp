@@ -3,7 +3,7 @@
 ### 🚀 Versão Portátil
 [⬇️ Baixar CalculadoraWinForms-Completa.zip](https://drive.google.com/file/d/1YpUdv8L9NiYSrOiDfMMyhB1UVBbucTQN/view?usp=drive_link)
 
-**Tamanho:** ~150MB (app completo independente)
+**Tamanho:** ~57,9MB (app completo independente)
 
 ### 🖥️ Como Usar
 1. Baixe o ZIP
@@ -13,4 +13,4 @@
 
 ### ⚡ Requisitos
 - Windows 10/11 64-bit
-- 200MB espaço livre
+- 100MB espaço livre
