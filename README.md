@@ -68,18 +68,15 @@ Contribuições são bem-vindas\! Sinta-se à vontade para abrir um *Pull Reques
 
 ### 🧑‍💻 Autor
 
-  * **[Ismael OLiveira]**
+  * **Ismael OLiveira**
 
 -----
 
 ### 📜 Licença
 
-Este projeto está licenciado sob a Licença **[MIT]**.
+Este projeto está licenciado sob a Licença **MIT**.
 
 -----
-
-
-
 
 ## 📥 Download
 
