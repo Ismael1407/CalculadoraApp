@@ -81,7 +81,7 @@ Este projeto está licenciado sob a Licença **MIT**.
 ## 📥 Download
 
 ### 🚀 Versão Portátil
-[⬇️ Baixar CalculadoraWinForms-Completa.zip](https://drive.google.com/file/d/1YpUdv8L9NiYSrOiDfMMyhB1UVBbucTQN/view?usp=drive_link)
+[⬇️ Baixar Calculator-Completa.zip](https://drive.google.com/file/d/1YpUdv8L9NiYSrOiDfMMyhB1UVBbucTQN/view?usp=drive_link)
 
 **Tamanho:** ~57,9MB (app completo independente)
 
